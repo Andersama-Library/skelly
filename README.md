@@ -1,5 +1,8 @@
 # skelly
 
+Github and Markdown driven website template using svelte.
+![image](https://github.com/Andersama-Library/skelly/assets/25020235/519a71b3-27a6-4044-ae22-1bd5bff1af82)
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Creating a project
